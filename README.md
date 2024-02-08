@@ -57,4 +57,4 @@
 - Maintain an Excel sheet to record attendee details and mark those who were present.
 - Use this data for future communication and analytics.
 
-This SOP serves as a comprehensive guide for organizing a successful Laravel meetup. Share this document with new volunteers to ensure consistency and efficiency in event planning.
+This SOP serves as a comprehensive guide for organizing a successful Laravel meetup. Share this document with new volunteers as well once onboarded to ensure consistency and efficiency in event planning.
