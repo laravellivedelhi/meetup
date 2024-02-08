@@ -1,4 +1,4 @@
-# Organizing a City Meetup on Laravel: Standard Operating Procedure (SOP)
+# Meetup Organisation - LaravelLiveDelhi: Standard Operating Procedure (SOP)
 
 ## 1. Planning Event Date/Weekend:
 - Identify potential dates for the meetup, considering weekends later in month.
